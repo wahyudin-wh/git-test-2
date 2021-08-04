@@ -14,6 +14,12 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, earum! Vero cum, deleniti autem saepe illum
         recusandae velit laudantium amet incidunt dolorum quasi eum dolorem doloremque, enim architecto, officiis non.
     </p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li></li>
+    </ul>
 </body>
 
 </html>
